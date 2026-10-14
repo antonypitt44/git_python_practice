@@ -1,3 +1,4 @@
 print("Выполнение основного функционала скрипта...")
 
-print("contact: email.support@github.com")
+print("Внимание: работа скрипта завершена.")
+print("please contact us at support@github.com")
